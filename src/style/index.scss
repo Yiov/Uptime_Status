@@ -35,7 +35,7 @@ body {
     height: 360px;
     padding: 30px 0 48px 0;
     box-sizing: border-box;
-    background: linear-gradient(to right, #00bbff 0%, #0088ff 100%);
+    background: linear-gradient(to right, #4fd69c 0%, #24a66e 100%);
     z-index: 0;
     .cover {
       width: 100%;
@@ -45,7 +45,7 @@ body {
       height: 100%;
       z-index: -1;
       &.loading {
-        background: linear-gradient(to right, #00bbff 0%, #0088ff 100%);
+        background: linear-gradient(to right, #4fd69c 0%, #24a66e 100%);
       }
       &.error {
         background: linear-gradient(to right, #e47e7e 0%, #ee5555 100%);
